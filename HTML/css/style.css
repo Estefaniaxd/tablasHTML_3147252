@@ -1,0 +1,29 @@
+body {
+    background-color: #e3f2fd; /* Color de fondo general */
+}
+
+h2 {
+    text-align: center; /* Centra el texto del h2 */
+}
+p {
+    text-align: center; /* Centra el texto del párrafo */
+    color: #000000; /* Color del texto */
+}
+
+table {
+    border-collapse: collapse;
+    width: 60%;
+    margin: 20px auto;
+    background-color: #e1f4fd; /* Color de fondo para toda la tabla */
+}
+
+th, td {
+    border: 1px solid #0e2525;
+    padding: 8px 12px;
+    text-align: center;
+}
+
+th {
+    background-color: #3db0b4; /* Color diferente para el encabezado */
+}
+

@@ -1,0 +1,22 @@
+# Tablas de Razas y Especies de Animales
+
+Esta actividad contiene varias tablas en HTML que muestran información sobre diferentes razas y especies de animales.
+
+## Tablas:
+
+- **Razas de aves:** Ejemplo: Canario, Jilguero, Diamante mandarín, Gorrión común.
+- **Razas de perros:** Ejemplo: Labrador Retriever, Chihuahua, Pastor Alemán, Pug.
+- **Razas de caballos:** Ejemplo: Árabe, Percherón, Mustang, Frisón.
+- **Especies de peces:** Ejemplo: Betta, Guppy, Neón, Pez Ángel, Disco.
+- **Razas de gatos:** Ejemplo: Persa, Siames, Maine Coon, Bengala.
+- **Especies de loros:** Ejemplo: Loro gris africano, Guacamayo azul y amarillo, Cacatúa, Amazonas frentiazul.
+- **Razas de vacas:** Ejemplo: Holstein, Jersey, Angus, Brahman.
+- **Especies de delfines:** Ejemplo: Delfín nariz de botella, Delfín común, Delfín rosado, Orca.
+- **Razas de conejos:** Ejemplo: Enano holandés, Rex, Gigante de Flandes, Angora.
+- **Especies de serpientes:** Ejemplo: Boa constrictor, Python real, Cobra india, Anaconda verde.
+
+## Estructura
+
+- **tablas.html:** Archivo principal con todas las tablas de animales.
+- **css/style.css:** Archivo de estilos para mejorar la visualización de las tablas.
+
